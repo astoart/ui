@@ -1,0 +1,22 @@
+
+version
+{
+	core
+	{
+		bootstrap   4.3.1
+		jquery.slim 3.3.1
+		popper      1.14.7
+	}
+
+	plugins
+	{
+		ui-dev 1.0
+	}
+
+	vendor
+	{
+		fontawesome 5.14.0
+		fonts       1.0
+		shards      3.0.0
+	}
+}
