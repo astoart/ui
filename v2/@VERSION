@@ -4,7 +4,7 @@ version
 	core
 	{
 		bootstrap   4.3.1
-		jquery.slim 3.3.1
+		jquery      3.3.1
 		popper      1.14.7
 	}
 
