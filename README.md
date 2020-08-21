@@ -11,4 +11,6 @@
 
 Please take this :taco:. We will announce it soon :grin:.
 
+Or you can visit https://astoart.com/job anytime.
+
 ##### Note : This repository will never been released.
