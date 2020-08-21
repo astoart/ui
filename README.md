@@ -9,6 +9,6 @@
 
 ### Job Position :
 
-Please take this :taco:. We will announce it soon :grin:.
+Please take this :taco:. We will announce it soon at here https://astoart.com/job :grin:.
 
 ##### Note : This repository will never been released.
