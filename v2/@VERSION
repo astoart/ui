@@ -9,7 +9,7 @@ version
 
 	plugins
 	{
-		ui-dev 1.0
+
 	}
 
 	vendor
@@ -20,4 +20,4 @@ version
 	}
 }
 
-Last update Aug 14 2020
+Last update Aug 25 2020
