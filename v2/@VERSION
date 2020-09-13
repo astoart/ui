@@ -18,7 +18,8 @@ version
 		fonts       1.0
 		shards      3.0.0
 		adminlte    3.0.5
+		sb-admin-2  4.1.1
 	}
 }
 
-Last update Sep 09 2020
+Last update Sep 14 2020
